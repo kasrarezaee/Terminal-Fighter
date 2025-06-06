@@ -1,4 +1,4 @@
-# Terminal Fighter: a simple River_Raid like gime in C
+# Terminal Fighter: a simple River_Raid like game in C
 
 ## Description
 
